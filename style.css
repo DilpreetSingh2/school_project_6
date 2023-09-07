@@ -1,0 +1,17 @@
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+     width: 100%;
+}
+
+body{
+    background-color: yellow;
+}
+
+img{
+    width: 50%;
+    
+}
+
+
